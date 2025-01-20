@@ -1,5 +1,4 @@
-# Projects-WQU
-## FD Group Work Project 1 M5
+# FD Group Work Project 1 M5
 Project Structure:
 - Contains 4 main tasks focusing on different aspects of financial data analysis:
   1. Data Quality Assessment
